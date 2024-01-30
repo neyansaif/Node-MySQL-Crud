@@ -1,0 +1,18 @@
+{
+  "name": "node_mysql_crud",
+  "version": "1.0.0",
+  "description": "Basic Crud with Node, Express and MYSQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neyan Saif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql2": "^3.9.1",
+    "nodemon": "^3.0.3"
+  }
+}
